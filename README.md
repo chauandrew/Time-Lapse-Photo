@@ -6,17 +6,18 @@ I included a .mov and a .jpg I made from it as an example of what the program do
 
 ### Getting Started
 
-Use the given TimeLapsePhoto.exe file with one argument: the directory of a .mp4 or .mov file
-
-
+Run this in command line. Use the given TimeLapsePhoto.exe file with one argument: the directory of a .mp4 or .mov file, for example:
+```
+C:\Your\Directory\Here TimeLapsePhoto ..\..\..\Videos\cooltimelapse.mov
+```
 ### Building
 
-If you want to build it from the main.cpp file, you'll need [opencv] (https://opencv.org/releases.html) for C++. From there, you'll probably have to mess around with the include directory and everything else that accompanies using libraries. I won't get into it here. 
+If you want to build it from the main.cpp file, you'll need [opencv](https://opencv.org/releases.html) for C++. From there, you'll probably have to mess around with the include directory and everything else that accompanies using libraries. I won't get into it here. 
 
 
 ### Acknowledgements
 
-I didn't make the [time lapse] (https://www.videvo.net/video/day-to-night-time-lapse-lake-and-stars/2619/) I put up here as an example.
+I didn't make the [time lapse](https://www.videvo.net/video/day-to-night-time-lapse-lake-and-stars/2619/) I put up here as an example.
 
 Hopefully it's all pretty straightforward! Let me know if you have trouble with it, and thanks for taking the time to look through everything here!
 
