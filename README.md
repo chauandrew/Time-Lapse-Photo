@@ -4,17 +4,17 @@ Takes a time lapse (any video will work really, but it's made for time lapses) a
 
 I included a .mov and a .jpg I made from it as an example of what the program does.
 
-###Getting Started
+### Getting Started
 
 Use the given TimeLapsePhoto.exe file with one argument: the directory of a .mp4 or .mov file
 
 
-###Building
+### Building
 
 If you want to build it from the main.cpp file, you'll need [opencv] (https://opencv.org/releases.html) for C++. From there, you'll probably have to mess around with the include directory and everything else that accompanies using libraries. I won't get into it here. 
 
 
-###Acknowledgements
+### Acknowledgements
 
 I didn't take the [time lapse] (https://www.videvo.net/video/day-to-night-time-lapse-lake-and-stars/2619/) I put up here as an example.
 
