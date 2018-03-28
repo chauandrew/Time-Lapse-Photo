@@ -16,9 +16,10 @@ If you want to build it from the main.cpp file, you'll need [opencv] (https://op
 
 ### Acknowledgements
 
-I didn't take the [time lapse] (https://www.videvo.net/video/day-to-night-time-lapse-lake-and-stars/2619/) I put up here as an example.
+I didn't make the [time lapse] (https://www.videvo.net/video/day-to-night-time-lapse-lake-and-stars/2619/) I put up here as an example.
 
 Hopefully it's all pretty straightforward! Let me know if you have trouble with it, and thanks for taking the time to look through everything here!
 
 
 -Andrew
+https://github.com/chauandrew/Time-Lapse-Photo/blob/master/README.md
