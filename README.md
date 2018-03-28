@@ -22,4 +22,3 @@ Hopefully it's all pretty straightforward! Let me know if you have trouble with 
 
 
 -Andrew
-https://github.com/chauandrew/Time-Lapse-Photo/blob/master/README.md
