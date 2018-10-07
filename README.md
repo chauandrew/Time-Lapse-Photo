@@ -2,7 +2,9 @@
 
 Takes a time-lapse (any video will work really, but it's made for time-lapses) and turns it into a photo by taking a vertical strip from every few frames and layering them side by side together. It works especially well/looks best with day to night time-lapses. 
 
-It's kinda an abstract concept, so I included an [example](https://github.com/chauandrew/Time-Lapse-Photo/blob/master/Example.gif), which produces this [photo](https://github.com/chauandrew/Time-Lapse-Photo/blob/master/ExamplePhoto.jpg) using this [time-lapse](https://www.videvo.net/video/day-to-night-time-lapse-lake-and-stars/2619/) as input. (I did NOT make this time-lapse)
+![alt text](https://github.com/chauandrew/Time-Lapse-Photo/blob/master/Example.gif)
+
+The above gif was made using this [time-lapse](https://www.videvo.net/video/day-to-night-time-lapse-lake-and-stars/2619/) as input. (I did NOT make this time-lapse)
 
 ### Getting Started
 
